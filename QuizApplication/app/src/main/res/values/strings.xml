@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">History Quiz</string>
+    <string name="quiz_name">History Trivia</string>
+    <string name="button_start">Start Quiz</string>
+    <string name="start_highscore">Highscore: 0</string>
+    <string name="score">Score: 0</string>
+    <string name="question_number">Question: 1/x</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_next">Next</string>
+    <string name="button_finish">Finish</string>
+
+    <string name="toast_btn_confirm_next">Please answer a question!</string>
+    <string name="toast_back_btn_pressed">Press back again to finish!</string>
+
+    <string name="first_answer">firstAnswer</string>
+    <string name="second_answer">secondAnswer</string>
+    <string name="third_answer">thirdAnswer</string>
+    <string name="question">question</string>
+
+
+</resources>
